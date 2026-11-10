@@ -1,0 +1,3 @@
+audio_path,text,speaker_id,session_id
+audio/001.wav,Đọc giúp tôi dòng chữ này,spk01,session01
+audio/002.wav,Phía trước có vật cản không,spk02,session02
